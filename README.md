@@ -18,7 +18,7 @@ Notes de version : [v0.1.0-beta](https://github.com/geoffreylannoyminesy-bot/Min
 
 Windows peut afficher un avertissement (« Windows a protégé votre ordinateur »), car l'application n'est pas encore signée. Clique sur **« Informations complémentaires »**, puis **« Exécuter quand même »**.
 
-**Configuration :** Windows 64 bits. Un processeur suffit, aucune carte graphique n'est nécessaire.
+**Configuration :** Windows 10 ou 11 (64 bits). Un processeur suffit, aucune carte graphique n'est nécessaire.
 
 ## Ce que ça fait
 
